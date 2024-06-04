@@ -1,10 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"mahnoor",
+	"author": "mahnoor",
 	"description": " something awesome",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.19.2"
 	},
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
